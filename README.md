@@ -1,4 +1,1 @@
-## Clube Seleto
 
-## LICENSE
-MIT [LICENSE]{LICENSE}
